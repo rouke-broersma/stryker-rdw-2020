@@ -1,7 +1,7 @@
 <!-- .element: class="fragments-no-display"-->
 ### Mutating code
 
-<pre><code data-noescape data-trim class="lang-ts hljs csharp">
+<pre><code data-noescape data-trim class="lang-cs hljs csharp">
 // Production code
 bool IsAllowedToBuyAlcohol(Customer customer) {
     return <span class="fragment fade-out" data-fragment-index="2">customer.age <span class="fragment fade-out" data-fragment-index="0">>=</span><span class="fragment current-visible" data-fragment-index="0"><</span><span class="fragment fade-in" data-fragment-index="1">></span> 18</span><span class="fragment fade-in" data-fragment-index="2">true</span>;
@@ -9,7 +9,7 @@ bool IsAllowedToBuyAlcohol(Customer customer) {
 }
 </code></pre>
 
-<pre><code class="lang-js hljs javascript">// Test
+<pre><code class="lang-cs hljs csharp">// Test
 var customer = new Customer { name: 'Mark', age: 24 };
 Assert.True(IsAllowedToBuyAlcohol(customer));
 </code></pre>
