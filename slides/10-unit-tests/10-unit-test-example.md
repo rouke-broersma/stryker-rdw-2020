@@ -1,16 +1,16 @@
 ## Unit test example
 
-```javascript
+```csharp
 // Production code
-function isAllowedToBuyAlcohol(customer) {
+bool IsAllowedToBuyAlcohol(Customer customer) {
   return customer.age >= 18;
 }
 ```
 
-```javascript
+```csharp
 // Test
-var customer = { name: 'Mark', age: 24 };
-expect(isAllowedToBuyAlcohol(customer)).to.equal(true);
+var customer = new Customer { name: 'Mark', age: 24 };
+Assert.True(IsAllowedToBuyAlcohol(customer));
 ```
 
-An example of a unit test in JavaScript
+An example of a unit test in c#
