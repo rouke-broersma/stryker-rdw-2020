@@ -1,5 +1,5 @@
 # Stryker
-This repository contains the slides for the talk on mutation testing at Normalized Systems DevCon 2020.
+This repository contains the slides for the talk on mutation testing at RDW 2020.
 
 To run these slides on your computer you need to have nodejs and npm installed. If you don't have these tools, you can get them on https://nodejs.org/en/
 
@@ -15,5 +15,3 @@ npm start
 This will open your browser and allow you to click through the slides.
 
 The demo application for this presentation is available on GitHub as well: https://github.com/stryker-mutator/robobar-example
-
-The Java demo application can be found here: https://github.com/simondel/pitest-demo
