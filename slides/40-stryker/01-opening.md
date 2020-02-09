@@ -1,5 +1,5 @@
 # Stryker
-Mutation testing for JavaScript and friends
+Mutation testing for c#
 
 ![stryker](/img/stryker.png)
 

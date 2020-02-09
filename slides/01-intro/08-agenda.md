@@ -8,6 +8,7 @@
         <li>Code coverage</li>
         <li>Mutation testing</li>
         <li>Stryker</li>
+        <li>Demo en/of vragen</li>
       </ul>
     </div>
     <div class="col">
