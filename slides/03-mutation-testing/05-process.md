@@ -1,4 +1,4 @@
-### Mutation testing process
+## Mutation testing process
 
 <div class="flex-emoji">
     <span class="emoji-120">😃</span>

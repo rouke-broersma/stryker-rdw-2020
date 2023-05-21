@@ -4,15 +4,15 @@
   "description": "Presentation on mutation testing",
   "main": "index.js",
   "scripts": {
-    "start": "kc-serve --theme black --highlight darkula"
+    "start": "kc serve"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Mobrockers/stryker-rdw-2020"
+    "url": "https://github.com/rouke-broersma/talk-mutation-testing-with-stryker"
   },
   "author": "",
   "license": "Apache-2.0",
   "dependencies": {
-    "@infosupport/kc-serve": "^2.1.6"
+    "@infosupport/kc-cli": "^4.14.2"
   }
 }

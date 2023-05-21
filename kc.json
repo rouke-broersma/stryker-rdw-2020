@@ -1,0 +1,11 @@
+{
+	"$schema": "https://unpkg.com/@infosupport/kc-cli/kc-schema.json",
+	"flavors": {
+		"csharp": {
+			"trainingCode": "MTCS"
+		},
+		"javascript": {
+			"trainingCode": "MTJS"
+		}
+	}
+}

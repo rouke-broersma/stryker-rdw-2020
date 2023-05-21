@@ -1,5 +1,5 @@
 # Stryker
-This repository contains the slides for the talk on mutation testing at RDW 2020.
+This repository contains the slides for the talk Mutation Testing with Stryker.
 
 To run these slides on your computer you need to have nodejs and npm installed. If you don't have these tools, you can get them on https://nodejs.org/en/
 
